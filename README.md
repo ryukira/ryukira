@@ -1,3 +1,6 @@
+
+![header_](https://user-images.githubusercontent.com/77473259/128132436-d8e852dd-bc5b-41a2-9ce4-46b6aad27ad8.png)
+
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
   <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
@@ -27,7 +30,6 @@
 <br>     
 
 
-![header_](https://user-images.githubusercontent.com/77473259/128132436-d8e852dd-bc5b-41a2-9ce4-46b6aad27ad8.png)
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
